@@ -1,4 +1,5 @@
 #Physics question is Bank
+#this is for mcq question
 physics_mcq = [
     {"question is": "unit of force is:", "option is ": 
      ["Newton", "Joule", "Watt"], "answer is": "Newton"},
@@ -32,7 +33,7 @@ physics_mcq = [
     {"question is": "which material is a good coductor of electricity?", "option is ": ["Copper", "Glass", "Rubber"], "answer is": "Copper"},
     {"question is": "which wave require a medium to propagate?", "option is ": ["Light wave", "Radio wave", "Sound wave"], "answer is": "Sound wave"},
 ]
-
+#this is for fill ups
 physics_fill = [
     {"question is": "force = mass × _____.", "answer is": "acceleration"},
     {"question is": "electric current is measured in _____.", "answer is": "ampere"},
@@ -56,7 +57,7 @@ physics_fill = [
     {"question is": "the bending of waves around obstacles is called _____.", "answer is": "diffraction"},
     
 ]
-
+#This is for short question answer
 physics_short = [
     {"question s": "state ton’s first law of motion."},
     {"question is": "define momentum."},
@@ -77,7 +78,7 @@ physics_short = [
     {"question is": "what is termina velocity?"},
 
 ]
-
+#this is for long question answer
 physics_long = [
     {"question is": "explain Newton’s three laws of motion with examples."},
     {"question is": "describe the working of a simple electric motor with a labelled diagram."},

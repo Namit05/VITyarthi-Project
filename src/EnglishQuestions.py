@@ -1,4 +1,5 @@
 #English Question is  Bank
+#this is for mcq question
 english_mcq = [
     {"Question is ": "he _____ to school every day.", "options are": 
      ["go", "goes", "gone"], "answer is ": "goes"},
@@ -51,7 +52,7 @@ english_mcq = [
  
 ]
 
-
+#this is for fill ups
 english_fill = [
     {"Question is ": "he has been living here _____ 2010.", "answer is ": "since"},
     {"Question is ": "Please _____ the door when you leave.", "answer is ": "close"},
@@ -80,7 +81,7 @@ english_fill = [
 
 ]
 
-
+#This is for short question answer
 english_short = [
     {"Question is ": "define a noun."},
     {"Question is ": "give a synonym for 'quick'."},
@@ -108,7 +109,7 @@ english_short = [
     {"Question is ": "define 'adjective of quality'."},
 
 ]
-
+#this is for long question answer
 english_long = [
     {"Question is ": "write a short paragraph on the importance of reading."},
     {"Question is ": "describe a memorable schol event."},

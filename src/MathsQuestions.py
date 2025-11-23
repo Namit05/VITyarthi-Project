@@ -1,4 +1,5 @@
 #Maths question is Bank
+#this is for mcq question
 maths_mcq = [
     {"question is": "derivative of x^2 is:", "here are the options": 
      ["x", "2x", "x^2"], "the answer is": "2x"},
@@ -33,7 +34,7 @@ maths_mcq = [
     {"question is": "mean of 2,4,6,8is:", "here are the optins": 
      ["5", "4", "6"], "the answer is": "5"},
 ]
-
+#this is for fill ups
 maths_fill = [
     {"question is": "the value of π (approx) is _____?", "the answer is": "3.14"},
     {"question is": "the derivtive of cos x is _____?", "theanswer is": "-sin x"},
@@ -61,7 +62,7 @@ maths_fill = [
     {"quetion is": "sin(30°) = _____?", "the anser is": "1/2"},
     {"question is": "the solution of |x| = 8 is x = 8 and _____?", "the answer is": "-8"},
 ]
-
+#This is for short question answer
 maths_short = [
     {"question is": "define a rational number?"},
     {"question is": "what is an arithmetic progression?"},
@@ -83,7 +84,7 @@ maths_short = [
     {"question is": " what is continuity?"},
     {"uestion is": "define a complementary angle?"},
 ]
-
+#this is for long question answer
 maths_long = [
     {"question is": "explain the steps to solv a quadratic equation by factorization?"},
     {"question is": "describe the binomial theorem with an example?"},

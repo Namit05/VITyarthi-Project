@@ -1,108 +1,109 @@
-#Chemistry Question Bank
+#Chemistry question is Bank
+#this is for mcq question is
 chemistry_mcq = [
-    {"Question": "which element has atomic number 8", "Options are": 
+    {"question is": "which element has atomic number 8", "Options are": 
      ["nitrogen", "oxygen", "fluorine"], "here is the answer": "Oxygen"},
-    {"Question": "which of the following is an alkaline earth metal?", "Options are":
+    {"question is": "which of the following is an alkaline earth metal?", "Options are":
       ["Sodium", "Magnesium", "Chlorine"], "here is the answer": "Magnesium"},
-    {"Question": "what is the formula of calcium carbonate?", "Options are": 
+    {"question is": "what is the formula of calcium crbonate?", "Options are": 
      ["CaCO3", "CaCl2", "CaSO4"], "here is the answer": "CaCO3"},
-    {"Question": "which gafds is liberated when dilute HCl reacts with zinc?", "Options are": 
-     ["Hydrogen", "Oxygen", "Chlorine"], "here is the answer": "Hydrogen"},
-    {"Question": "which is a strong acid?", "Opions are": 
+    {"question is": "which gafds is liberated when dilute HCl reacts with zinc?", "Options are": 
+     ["Hydrogen", "Oxygen", "Chorine"], "here is the answer": "Hydrogen"},
+    {"question is": "which is a strong acid?", "Opions are": 
      ["HCl", "CH3COOH", "H2O"], "here is the answer": "HCl"},
-    {"Question": "which type of bond is present in N2 molecule?", "Options are": 
-     ["Single covalent", "Double ovalent", "Triple covalent"], "here is the answer": "Triple covalent"},
-    {"Question": "pH of a neutral solution at 25°C is:", "Options are": 
-     ["7", "0", "14"], "here is the answer": "7"},
-    {"Question": "which of hese s a reducing sugar?", "Options are": 
+    {"question is": "which type of bond is present in N2 molecule?", "Options are": 
+     ["Single covalent", "Double oalent", "Triple covalent"], "here is the answer": "Triple covalent"},
+    {"question is": "pH of a neutral olution at 25°C is:", "Options are": 
+     ["7", "0", "14"], "here is the aswer": "7"},
+    {"question is": "which of hese s a reducing sugar?", "Options are": 
      ["Glucose", "Sucrose", "Cellulose"], "here is the answer": "Glucose"},
-    {"Question": "In which orbital does the first electron of hydrogen go?", "Options are": 
+    {"question is": "In which orbital does the first electron of hydrogen go?", "Options are": 
      ["1s", "2s", "2p"], "here i the answer": "1s"},
-    {"Question": "which method separates two miscible liquids with different boiling points?", "Options are": 
-     ["Distillation", "Filtration", "Decantation"], "here is the answer": "Distillation"},
-    {"Question": "which is an addition polymer?", "Options are": 
+    {"question is": "which method separates two miscible liqids with different boiling points?", "Options are": 
+     ["distillation", "filtration", "decantation"], "here is the answer": "Distillation"},
+    {"question is": "which is an addition polymer?", "Options are": 
      ["Polyethylene", "Nylon", "Teflon"], "here is the answer": "Polyethylene"},
-    {"Question": "Test for unsaturation uses:", "Options are": 
+    {"question is": "Test for unsaturation uses:", "Options are": 
      ["Bromine water", "Tollens reagent", "Fehling solution"], "here is the answer": "Bromine water"},
     {"Queston": "Most electronegative element?", "Options are": 
      ["Fluorine", "Oxygen", "Chlorine"], "here is the answer": "Fluorine"},
-    {"Question": "Product of neutralizing HCl with NaO:", "Options are": 
+    {"question is": "Product of neutralizing HCl with NaO:", "Options are": 
      ["NaCl and H₂O", "H₂", "NaOH"], "here is the answer": "NaCl and H₂O"},
-    {"Question": "Metal extracted from aluminium oxide?", "Options are": 
+    {"question is": "Metal extracted from aluminium oxide?", "Options are": 
      ["Aluminium", "Copper" "Iron"], "here is the answer": "Aluminium"},
-    {"Question": "But-1-ene and but-2-ene show:", "Options are": 
+    {"question is": "But-1-ene and but-2-ene show:", "Options are": 
      ["Position isomerism", "Chain isomerism", "Functional"], "here is the answer": "Position isomerism"},
-    {"Question": "which is tertiary alcohol?", "Options are": 
+    {"question is": "which is tertiary alcohol?", "Options are": 
      ["tert-Butyl alcoho", "Ethanol", "Propanol"], "here is the answer": "tert-Butyl alcohol"},
-    {"Question": "which oxid is acidic?", "Options are": [
+    {"question is": "which oxid is acidic?", "Options are": [
         "CO₂", "CaO", "Na₂O"], "here is the answer": "CO₂"},
-    {"Question": "Common name for NaHCO₃?", "Options are":
+    {"question is": "Common name for NaHCO₃?", "Options are":
       ["Baking soda", "Washin soda", "Bleaching powder"], "here is the answer": "Baking soda"},
 
 ]
-
+#this is for fill ups
 chemistry_fill = [
-    {"Question": "the chemical formula of common salt is _____.", "here is the answer": "NaCl"},
-    {"Question": "the atomic number of carbon is _____.", "here is the answer": "6"},
-    {"Question": "avogadro's number is _____.", "here is the answer": "6.022e23"},
-    {"Question": "the pH of neutral water is _____.", "here is the answer": "7"},
-    {"Question": "elecrolysis of molten NaCl produces sodium and _____.", "here is the answer": "chlorine"},
-    {"Question": "the oxidation state o sulfur in H2SO4 is _____.", "here is the answer": "+6"},
-    {"Question": "functional group -OH is called _____.", "here is the answer": "hydroxyl"},
-    {"Question": "complete combstion of methane forms CO2 and _____.", "here is the answer": "H2O"},
-    {"Question": "cvalent bod forms by _____ of electrons.", "here is the answer": "sharing"},
-    {"Question": "sI unit of amount of substance is _____.", "here is the answer": "mol"},
-    {"Question": "solid → Gas pocess is called _____.", "here is the answer": "sublimation"},
-    {"Question": "formula of ethene is _____.", "hre is the answer": "C2H4"},
-    {"Question": "first ionisation energygenerally _____ across a period.", "here is the answer": "increases"},
-    {"Question": "equal volumes of gasescontain equal molecules: _____ law.", "here is the answer": "Avogadro's"},
-    {"Question": "a substance increasing reaction rate is called _____.", "here is the answer": "catalyst"},
-    {"Question": "common name of CaCO3 is _____.", "here is the answer": "limestone"},
-    {"Question": "molecular formula of glucose is _____.", "here is the answer": "C6H12O6"},
+    {"question is": "the chemical formula of common salt is _____.", "here is the answer": "NaCl"},
+    {"question is": "the atomic number of carbon is _____.", "here is the answer": "6"},
+    {"question is": "avogadro's number is _____.", "here is the answer": "6.022e23"},
+    {"question is": "the pH of neutral water is _____.", "here is the answer": "7"},
+    {"question is": "elecrolysis of molten NaCl produces sodium and _____.", "here is the answer": "chlorine"},
+    {"question is": "the oxidation state o sulfur in H2SO4 is _____.", "here is the answer": "+6"},
+    {"question is": "functional group -OH is called _____.", "here is the answer": "hydroxyl"},
+    {"question is": "complete combstion of methane forms CO2 and _____.", "here is the answer": "H2O"},
+    {"question is": "cvalent bod forms by _____ of electrons.", "here is the answer": "sharing"},
+    {"question is": "sI unit of amount of substance is _____.", "here is the answer": "mol"},
+    {"question is": "solid → Gas pocess is called _____.", "here is the answer": "sublimation"},
+    {"question is": "formula of ethene is _____.", "hre is the answer": "C2H4"},
+    {"question is": "first ionisation energygenerally _____ across a period.", "here is the answer": "increases"},
+    {"question is": "equal volumes of gasescontain equal molecules: _____ law.", "here is the answer": "Avogadro's"},
+    {"question is": "a substance increasing reaction rate is called _____.", "here is the answer": "catalyst"},
+    {"question is": "common name of CaCO3 is _____.", "here is the answer": "limestone"},
+    {"question is": "molecular formula of glucose is _____.", "here is the answer": "C6H12O6"},
 
 ]
-
+#Tjis is for short question is anser
 chemistry_short = [
-    {"Question": "what are isotopes?"},
-    {"Question": "define ionisation energy."},
-    {"Question": "what is a buffer solution?"},
-    {"Question": "give one use of sodium bicarbonate."},
-    {"Question": "what is hyrolysis?"},
-    {"Question": "define electrochemical cell."},
-    {"Question": "State Le Chatelie's principle."},
-    {"Question": "define homologous series."},
-    {"Question": "what is stereoisomerism?"},
-    {"Question": "define molarity."},
-    {"Question": "what is alltropy?"},
-    {"Question": "define endothermic reaction."},
-    {"Question": "define xidation in terms of electrons."},
-    {"Question": "mention a mthod to purify an organic liquid."},
-    {"Question": "what is chromatography used for?"},
-    {"Question": "what is a functionl group?"},
-    {"Question": "what forms a concave meniscus?"},
-    {"Question": "what is the role of a catalyst?"},
-    {"Question": "define limiting reagent."},
+    {"question is": "what are isotopes?"},
+    {"question is": "define ionisation energy."},
+    {"question is": "what is a buffer solution?"},
+    {"question is": "give one use of sodium bicarbonate."},
+    {"question is": "what is hyrolysis?"},
+    {"question is": "define electrochemical cell."},
+    {"question is": "State Le Chatelie's principle."},
+    {"question is": "define homologous series."},
+    {"question is": "what is stereoisomerism?"},
+    {"question is": "define molarity."},
+    {"question is": "what is alltropy?"},
+    {"question is": "define endothermic reaction."},
+    {"question is": "define xidation in terms of electrons."},
+    {"question is": "mention a mthod to purify an organic liquid."},
+    {"question is": "what is chromatography used for?"},
+    {"question is": "what is a functionl group?"},
+    {"question is": "what forms a concave meniscus?"},
+    {"question is": "what is the role of a catalyst?"},
+    {"question is": "define limiting reagent."},
 
 ]
-
+#this is for long question is answer
 chemistry_long = [
-    {"Question": "explain the Aufbau principle and its application in writing electronic configurations."},
-    {"Question": "describe rends in atomic size and ionisation energy acoss the periodic table."},
-    {"Question": "explain preparation, properties and uses of chlorine gas."},
-    {"Question": "describe ionic and covalent chracer of bonds with examples."},
-    {"Question": "explain elctrophilic addition in alkenes with mechanisms."},
-    {"Question": "describe fractional distillation of crude oil."},
-    {"Question": "explain acid-base titration process with calculations."},
-    {"Question": "Discuss eutrophication and its environmental impacts."},
-    {"Question": "Compare the structres and properties of iamond and graphite."},
-    {"Question": "explain chemical equiibrium and effects of concentration changes."},
-    {"Question": "Explin greenhouse gases and global warming."},
-    {"Question": "describe activation energy and effect of catalysts."},
-    {"Question": "explain SN1 and SN2 mechanisms with examples."},
-    {"Question": "Discuss methods of water purification."},
-    {"Question": "explain chromatography methods and applications."},
-    {"Question": "describe the Haber process with conditions and catalyst."},
-    {"Question": "explain pH meter working principle."},
+    {"question is": "explain the Aufbau principle and its application in writing electronic configurations."},
+    {"question is": "describe rends in atomic size and ionisation energy acoss the periodic table."},
+    {"question is": "explain preparation, properties and uses of chlorine gas."},
+    {"question is": "describe ionic and covalent chracer of bonds with examples."},
+    {"question is": "explain elctrophilic addition in alkenes with mechanisms."},
+    {"question is": "describe fractional distillation of crude oil."},
+    {"question is": "explain acid-base titration process with calculations."},
+    {"question is": "Discuss eutrophication and its environmental impacts."},
+    {"question is": "Compare the structres and properties of iamond and graphite."},
+    {"question is": "explain chemical equiibrium and effects of concentration changes."},
+    {"question is": "Explin greenhouse gases and global warming."},
+    {"question is": "describe activation energy and effect of catalysts."},
+    {"question is": "explain SN1 and SN2 mechanisms with examples."},
+    {"question is": "Discuss methods of water purification."},
+    {"question is": "explain chromatography methods and applications."},
+    {"question is": "describe the Haber process with conditions and catalyst."},
+    {"question is": "explain pH meter working principle."},
 
 
 ]
