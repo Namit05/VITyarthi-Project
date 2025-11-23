@@ -23,7 +23,7 @@ Technologies Used
 Python 3.13.0
 1. Built-in Modules
  - random — used to randomly select questions
-2. Custom User-Made Modules (Subject Question Files)- These Custom modules help to reduce code length , edit easily to add more questions and make user experience better
+2. Custom User-Made Modules (Subject Question Files) - These Custom modules help to reduce code length , edit easily to add more questions and make user experience better :
  - EnglishQuestions.py
  - ChemistryQuestions.py
  - PhysicsQuestions.py
