@@ -1,5 +1,7 @@
 #Maths question Bank
 #this is for mcq question
+#This consists of mcqs with 3 choices that u can use for urself and have 2 tries to attempt to make it more fun
+
 maths_mcq = [
     {"question": "derivtve of x^2 is:", "options": 
      ["x","2x","x^2"], "the nswer is": "2x"},
@@ -35,6 +37,7 @@ maths_mcq = [
      ["5", "4", "6"], "the answer is": "5"},
 ]
 #this is for fill ups
+#this also comes with 3 attempts to make it fun more collenging
 maths_fill = [
     {"question": "the value of π (approx) is _____?", "the answer is": "3.14"},
     {"question": "the deritive of cos x is _____?", "theanswer is": "-sin x"},
@@ -63,6 +66,7 @@ maths_fill = [
     {"question": "the solution of |x| = 8 is x = 8 and _____?", "the answer is": "-8"},
 ]
 #This is for short question answer
+#take ur time to do this !
 maths_short = [
     {"question": "define a rational number?"},
     {"question": "what is an arithmetic progression?"},

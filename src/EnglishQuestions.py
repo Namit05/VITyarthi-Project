@@ -1,5 +1,7 @@
 #English question Bank
 #this is for mcq question
+#This consists of mcqs with 3 choices that u can use for urself and have 2 tries to attempt to make it more fun
+
 english_mcq = [
     {"question":"he _____ to school every day.", "option": 
      ["go", "goes", "gone"], "answer is ": "goes"},
@@ -29,30 +31,31 @@ english_mcq = [
      ["warm", "cold","cool"], "answer is ": "cold"},
     {"question": "choose the correct tense: she _____ a letter now.", "option": 
      ["writes", "is writing", "wrote"], "answer is ": "iswriting"},
-    {"question": "what is a snonym for 'happy'?", "option": 
+    {"question": "what is a snonym for 'happy'?","option": 
      ["sad", "joyful", "tired"], "answer is ": "joyful"},
     {"question": "choose the correct spelling:", "option": 
      ["definately", "definitely", "definitly"], "answer is ": "definitely"},
     {"question": "which word is anadverb?", "option": 
      ["quickly", "quick", "quicker"], "answer is ": "quickly"},
     {"question": "choose the correct sentence:", "option": 
-     ["their going home.", "they're going home.", "there going home."], "answer is ": "they're going home."},
-    {"question": "which is a proper noun?", "option": 
+     ["their going home.", "they're going home.", "theregoing home."], "answer is ": "they're going home."},
+    {"question": "which is aproper noun?", "option": 
      ["city", "country", "India"], "answer is ": "India"},
-    {"question": "pick the conjunction:", "option": 
+    {"question": "pick theconjunction:", "option": 
      ["and", "run", "blue"], "answer is ": "and"},
-    {"question": "which pronounreplaces 'Sarah and I'?", "option": 
+    {"question": "which pronoun replaces 'Sarah and I'?", "option": 
      ["they", "we", "Us"], "answe is ": "we"},
-    {"question": "choose the correct order:", "option": 
+    {"question": "chose the correct order:", "option": 
      ["Always he late is.", "he is always late.", "he always is late."], "answer is ": "he is always late."},
     {"question": "which word is a verb?", "option": 
-     ["jump", "blue", "chair"], "answer is ": "jump"},
-    {"question": "pick the correct: she is _____ thanme.", "option": 
-     ["more kind", "kinder", "kind"], "answer is ": "kinder"},
+     ["jump","blue","chair"], "answer is ": "jump"},
+    {"question":"pick the correct: she is _____ thanme.", "option": 
+     ["more kind","kinder","kind"], "answer is ": "kinder"},
  
 ]
 
 #this is for fill ups
+#this also comes with 3 attempts to make it fun more collenging
 english_fill = [
     {"question": "he has beenliving here _____ 2010.", "answer is ": "since"},
     {"question": "Please _____ the door whenyou leave.", "answer is ": "close"},
@@ -82,6 +85,7 @@ english_fill = [
 ]
 
 #This is for short questionanswer
+#take ur time to do this !
 english_short = [
     {"question": "define a noun."},
     {"question": "give a synonym for 'quick'."},
@@ -110,6 +114,7 @@ english_short = [
 
 ]
 #this is for long questionanswer
+#take ur time to do this !
 english_long = [
     {"question": "write a short paragraph onthe importance of reading."},
     {"question": "describe a memorable schol event."},

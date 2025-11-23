@@ -1,5 +1,7 @@
 #Physics question Bank
 #this is for mcq question
+#This consists of mcqs with 3 choices that u can use for urself and have 2 tries to attempt to make it more fun
+
 physics_mcq = [
     {"question": "unit of force is:", "option": 
      ["Newton", "Joule", "Watt"], "answer is": "Newton"},
@@ -34,6 +36,7 @@ physics_mcq = [
     {"question": "which wave require a mdium to propagate?", "option": ["Light wave", "Radio wave", "Sound wave"], "answer is": "Sound wave"},
 ]
 #this is for fill ups
+#this also comes with 3 attempts to make it fun more collenging
 physics_fill = [
     {"question": "force = mass × _____.", "answer is": "acceleration"},
     {"question": "electric current is measured in _____.", "answer is": "ampere"},
@@ -58,6 +61,7 @@ physics_fill = [
     
 ]
 #This is for short question answer
+#take ur time to do this !
 physics_short = [
     {"question": "state ton’s first law of motion."},
     {"question": "define momentum."},
@@ -79,6 +83,7 @@ physics_short = [
 
 ]
 #this is for long question answer
+#take ur time to do this !
 physics_long = [
     {"question": "explain Newton’s three laws of motion with examples."},
     {"question": "describe the working of a simple electric motor with a labelled diagram."},

@@ -44,6 +44,7 @@ chemistry_mcq = [
 
 ]
 #this is for fill ups
+#this also comes with 3 attempts to make it fun more collenging
 chemistry_fill = [
     {"question": "the chemical formula of common salt is _____.","here is the answer":"NaCl"},
     {"question": "the atomic number of carbon is _____.","here is the answer": "6"},
@@ -64,7 +65,9 @@ chemistry_fill = [
     {"question": "molecular formula of glucose is _____.", "here is the answer": "C6H12O6"},
 
 ]
-#Tjis is for short question anser
+#Tjis is for short question answer
+#take ur time to do this !
+
 chemistry_short = [
     {"question": "what are isotopes?"},
     {"question": "define ionisatin energy."},
@@ -88,6 +91,7 @@ chemistry_short = [
 
 ]
 #this is for long question answer
+#take ur time to do this !
 chemistry_long = [
     {"question": "explain the Aufbau rinciple and its application in writing electronic configurations."},
     {"question": "describe rends in atomic size and ionisation energy acoss the periodic table."},
