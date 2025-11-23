@@ -1,139 +1,139 @@
-#English question is  Bank
+#English question Bank
 #this is for mcq question
 english_mcq = [
-    {"question is ": "he _____ to school every day.", "options are": 
+    {"question":"he _____ to school every day.", "option": 
      ["go", "goes", "gone"], "answer is ": "goes"},
-    {"question is ": "choose the corect sentence:", "options are": 
+    {"question": "choose the corect sentence:", "option": 
      ["she don't like it.", "she doesn't like it.", "she not like it."], "answer is ": "she doesn't like it."},
-    {"question is ": "pick the right preposition: I arrived _____ noon.", "options are": 
-     ["in", "at", "on"], "answer is ": "at"},
-    {"question is ": "choose correct article: I saw _____ eagle.", "options are": 
+    {"question":"pick the right preposition: I arrived _____ noon.", "option": 
+     ["in", "at", "on"],"answer is ": "at"},
+    {"question": "choose correct article: I saw _____ eagle.", "option": 
      ["a", "an", "the"], "answer is ": "an"},
-    {"question is ": "which is plural?", "options are": 
+    {"question": "which is plural?", "option": 
      ["child", "children", "childs"], "answer is ": "children"},
-    {"question is ": "she _____ studying now.", "options are": 
+    {"question": "she _____ studying now.", "option": 
      ["is", "are", "am"], "answer is ": "is"},
-    {"question is ": "they _____ lunch already.", "options are": 
+    {"question": "they _____ lunch already.", "option": 
      ["had", "have", "has"], "answer is ": "have"},
-    {"question is ": "choose correct: It is _____ book.", "options are": 
+    {"question": "choose correct: It is _____ book.", "option": 
      ["your", "yurs", "you're"], "answer is ": "your"},
-    {"question is ": "he is _____ than his brother.", "options are": 
+    {"question": "he is _____ thanhis brother.", "option": 
      ["tall", "taller", "tallest"], "answer is ": "taller"},
-    {"question is ": "pick correct pronoun: _____ is reading a book.", "options are": 
+    {"question": "pick correct pronoun: _____ is reading a book.", "option": 
      ["he", "Him", "His"], "answer is ": "he"},
-    {"question is ": "choose correct: I have _____ my homework.", "options are": 
+    {"question":"choose correct: I have _____ my homework.","option": 
      ["do", "did", "done"], "answer is ": "done"},
-    {"question is ": "which is correct: she sings _____ than him.", "options are": 
+    {"question": "which is correct: she sings _____ thanhim.", "option": 
      ["good", "better", "best"], "answer is ": "better"},
-    {"question is ": "the opposite of 'hot' is _____.", "options are": 
-     ["warm", "cold", "cool"], "answer is ": "cold"},
-    {"question is ": "choose the correct tense: she _____ a letter now.", "options are": 
-     ["writes", "is writing", "wrote"], "answer is ": "is writing"},
-    {"question is ": "what is a snonym for 'happy'?", "options are": 
+    {"question":"the opposite of 'hot' is _____.", "option": 
+     ["warm", "cold","cool"], "answer is ": "cold"},
+    {"question": "choose the correct tense: she _____ a letter now.", "option": 
+     ["writes", "is writing", "wrote"], "answer is ": "iswriting"},
+    {"question": "what is a snonym for 'happy'?", "option": 
      ["sad", "joyful", "tired"], "answer is ": "joyful"},
-    {"question is ": "choose the correct spelling:", "options are": 
+    {"question": "choose the correct spelling:", "option": 
      ["definately", "definitely", "definitly"], "answer is ": "definitely"},
-    {"question is ": "which word is an adverb?", "options are": 
+    {"question": "which word is anadverb?", "option": 
      ["quickly", "quick", "quicker"], "answer is ": "quickly"},
-    {"question is ": "choose the correct sentence:", "options are": 
+    {"question": "choose the correct sentence:", "option": 
      ["their going home.", "they're going home.", "there going home."], "answer is ": "they're going home."},
-    {"question is ": "which is a proper noun?", "options are": 
+    {"question": "which is a proper noun?", "option": 
      ["city", "country", "India"], "answer is ": "India"},
-    {"question is ": "pick the conjunction:", "options are": 
+    {"question": "pick the conjunction:", "option": 
      ["and", "run", "blue"], "answer is ": "and"},
-    {"question is ": "which pronoun replaces 'Sarah and I'?", "options are": 
+    {"question": "which pronounreplaces 'Sarah and I'?", "option": 
      ["they", "we", "Us"], "answe is ": "we"},
-    {"question is ": "choose the correct order:", "options are": 
+    {"question": "choose the correct order:", "option": 
      ["Always he late is.", "he is always late.", "he always is late."], "answer is ": "he is always late."},
-    {"question is ": "which word is a verb?", "options are": 
+    {"question": "which word is a verb?", "option": 
      ["jump", "blue", "chair"], "answer is ": "jump"},
-    {"question is ": "pick the correct: she is _____ than me.", "options are": 
+    {"question": "pick the correct: she is _____ thanme.", "option": 
      ["more kind", "kinder", "kind"], "answer is ": "kinder"},
  
 ]
 
 #this is for fill ups
 english_fill = [
-    {"question is ": "he has been living here _____ 2010.", "answer is ": "since"},
-    {"uestion is ": "Please _____ the door when you leave.", "answer is ": "close"},
-    {"questionis ": "the plural of 'mouse' is _____.", "answer is ": "mice"},
-    {"queston is ": "she went to the store _____ bus.", "answer is ": "by"},
-    {"question is ": "I have _____ my homework.", "answer is ": "done"},
-    {"question is ": "they arrived _____ time.", "answer is ": "on"},
-    {"question is ": "he speak English quite _____.", "answer is ": "well"},
-    {"question is ": "that book is _____ the table.", "answer is ": "on"},
-    {"question is ": "give me _____ apple.", "answer is ": "an"},
-    {"question is ": "she is older _____ me.", "answer is ": "than"},
-    {"question is ": "I will call you _____ I arrive.", "answer is ": "when"},
-    {"question is ": "write the past of 'go': _____.", "answer is ": "went"},
-    {"question is ": "he is interested _____ music.", "answer is ": "in"},
-    {"questin is ": "the opposite of 'good' is _____.", "answer is ": "bad"},
-    {"question is ": "the baby is sleeping _____ the sofa.", "answer is ": "on"},
-    {"question is ": "I prefer tea _____ coffee.", "answer is ": "to"},
-    {"question is ": "she is good _____ drawing.", "answer is ": "at"},
-    {"uestion is ": "the sun rises _____ the east.", "answer is ": "in"},
-    {"question is ": "my birhday is _____ July.", "answer is ": "in"},
-    {"question is ": "we waited _____ an hour.", "answer is ": "for"},
-    {"uestion is ": "the cat jumped _____ the wall.", "answer is ": "over"},
-    {"question is ": "he is afraid _____ spiders.", "answer is ": "of"},
-    {"question is ": "she apologized _____ being late.", "answer is ": "for"},
-    {"uestion is ": "the book was written _____ Shakespeare.", "answer is ": "by"},
+    {"question": "he has beenliving here _____ 2010.", "answer is ": "since"},
+    {"question": "Please _____ the door whenyou leave.", "answer is ": "close"},
+    {"question": "the plural of 'mouse' is _____.", "answer is ": "mice"},
+    {"question": "she went to the store _____ bus.", "answer is ": "by"},
+    {"question": "I have _____ my homework.", "answer is ": "done"},
+    {"question": "they arrived _____ time.", "answer is ": "on"},
+    {"question": "he speak English quite _____.", "answer is ": "well"},
+    {"question": "that book is _____ the table.", "answer is ": "on"},
+    {"question": "give me _____ apple.", "answer is ": "an"},
+    {"question": "she is older _____ me.", "answer is ": "than"},
+    {"question": "I will call you _____ I arrive.", "answer is ": "when"},
+    {"question": "write the past of 'go': _____.", "answer is ": "went"},
+    {"question": "he is interested _____ music.", "answer is ": "in"},
+    {"question": "the opposite of 'good' is _____.", "answer is ": "bad"},
+    {"question": "the baby is sleeping _____ the sofa.", "answer is ": "on"},
+    {"question": "I prefer tea _____ coffee.", "answer is ": "to"},
+    {"question": "she is good _____ drawing.", "answer is ": "at"},
+    {"question": "the sunrises _____ the east.", "answer is ": "in"},
+    {"question": "my birhday is _____ July.", "answer is ": "in"},
+    {"question": "we waited _____ anhour.", "answer is ": "for"},
+    {"question": "the cat jumped _____ the wall.", "answer is ": "over"},
+    {"question": "he is afraid _____ spiders.", "answer is ": "of"},
+    {"question": "she apologized _____ being late.", "answer is ": "for"},
+    {"question": "the book was written_____ Shakespeare.", "answer is ": "by"},
 
 ]
 
-#This is for short question answer
+#This is for short questionanswer
 english_short = [
-    {"question is ": "define a noun."},
-    {"question is ": "give a synonym for 'quick'."},
-    {"qestion is ": "what is an antonym of 'ancient'?"},
-    {"question is ": "give a one-word adjective for 'very small'."},
-    {"question is ": "what is a verb?"},
-    {"quetion is ": "give a ynonym for 'happy'."},
-    {"question is ": "what is an antonym of 'noisy'?"},
-    {"queston is ": "what is a pronoun?"},
-    {"question is ": "give a synonym for 'beautiful'."},
-    {"queston is ": "define 'adverb' briefly."},
-    {"questionis ": "what is a conjunction?"},
-    {"question is ": "give a synonym for 'angry'."},
-    {"question is ": "what is a adjective?"},
-    {"quesin is ": "name te parts of speech."},
-    {"question is ": "give an antonym for 'strong'."},
-    {"question is ": "what i a homphone?"},
-    {"question is ": "define a sentence."},
-    {"questio s ": "what is a proper noun?"},
-    {"question is ": "give an example of a collective noun."},
-    {"question is ": "what is a preposition?"},
-    {"question is ": "give one example of an interjection."},
-    {"question is ": "what is aarticle?"},
-    {"question is ": "what is a clause?"}, 
-    {"question is ": "define 'adjective of quality'."},
+    {"question": "define a noun."},
+    {"question": "give a synonym for 'quick'."},
+    {"question": "what is anantonym of 'ancient'?"},
+    {"question": "give a one-word adjective for 'very small'."},
+    {"question": "what is a verb?"},
+    {"question": "give a ynonym for 'happy'."},
+    {"question": "what is anantonym of 'noisy'?"},
+    {"question": "what is a pronoun?"},
+    {"question": "give a synonym for 'beautiful'."},
+    {"question": "define 'adverb' briefly."},
+    {"question": "what is a conjunction?"},
+    {"question": "give a synonym for 'angry'."},
+    {"question": "what is a adjective?"},
+    {"question": "name te parts of speech."},
+    {"question": "give anantonym for 'strong'."},
+    {"question": "what i a homphone?"},
+    {"question": "define a sentence."},
+    {"question": "what is a proper noun?"},
+    {"question": "give anexample of a collective noun."},
+    {"question": "what is a preposition?"},
+    {"question": "give one example of aninterjection."},
+    {"question": "what is aarticle?"},
+    {"question": "what is a clause?"}, 
+    {"question": "define 'adjective of quality'."},
 
 ]
-#this is for long question answer
+#this is for long questionanswer
 english_long = [
-    {"question is ": "write a short paragraph on the importance of reading."},
-    {"question is ": "describe a memorable schol event."},
-    {"quetion is ": "write about your favorite book."},
-    {"questionis ": "explain the benefits of learning English."},
-    {"quetion is ": "describe a day in your life."},
-    {"question is ": "write bout a person you admire."},
-    {"question is ": "explain wh teamwork is important."},
-    {"question is ": "write a shrt description of your school."},
-    {"qustion is ": "describe a festival you celebrate."},
-    {"question is ": "write about the importance of punctuality."},
-    {"question is ": "describe how youprepare for exams."},
-    {"questionis ": "write about ahobby you enjoy."},
-    {"questin is ": "explainwhy exercise is important for health."},
-    {"question is ": "describe your dream vacation."},
-    {"question is ": "write abou you best friend."},
-    {"question is ": "describe your favorite teacher and why you like them."},
-    {"question is ": "write about a time you learned something new."},
-    {"queston is ": "describe an unforgettable moment in your life."},
-    {"question is ": "write about th importance of discipline."},
-    {"question is ": "explain the value of honesty."},
-    {"question is ":"describe an interesting place you have visited."},
-    {"question is ": "write abouthow you spend your weekends."},
-    {"question is ":"explain why kindness is important."},
-    {"question is ":"describe an event that changed your perspective."},
+    {"question": "write a short paragraph onthe importance of reading."},
+    {"question": "describe a memorable schol event."},
+    {"question": "write about your favorite book."},
+    {"question": "explainthe benefits of learning English."},
+    {"question": "describe a day inyour life."},
+    {"question": "write bout a personyou admire."},
+    {"question": "explainwh teamwork is important."},
+    {"question": "write a shrt descriptionof your school."},
+    {"question": "describe a festival you celebrate."},
+    {"question": "write about the importance of punctuality."},
+    {"question": "describe how youprepare for exams."},
+    {"question": "write about ahobby you enjoy."},
+    {"question": "explainwhy exercise is important for health."},
+    {"question": "describe your dream vacation."},
+    {"question": "write abou you best friend."},
+    {"question": "describe your favorite teacher and why you like them."},
+    {"question": "write about a time you learned something new."},
+    {"question": "describe anunforgettable moment inyour life."},
+    {"question": "write about th importance of discipline."},
+    {"question": "explainthe value of honesty."},
+    {"question":"describe aninteresting place you have visited."},
+    {"question": "write abouthow you spend your weekends."},
+    {"question":"explainwhy kindness is important."},
+    {"question":"describe anevent that changed your perspective."},
 
 ]

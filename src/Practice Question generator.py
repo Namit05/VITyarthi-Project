@@ -1,5 +1,6 @@
 #Practice Question Generator
 
+
 #All modules used in the Program!
 
 import random
@@ -109,8 +110,8 @@ def ask_mcq(question_item):
     print("Q:", question_item["question"])
 
     index = 1
-    while index <= len(question_item["options"]):
-        print(str(index) + ". " + question_item["options"][index - 1])
+    while index <= len(question_item["option"]):
+        print(str(index) + ". " + question_item["option"][index - 1])
         index = index + 1
 
     attempts = 1
@@ -119,8 +120,8 @@ def ask_mcq(question_item):
 
         if answer.isdigit():
             number = int(answer)
-            if number >= 1 and number <= len(question_item["options"]):
-                chosen = question_item["options"][number - 1]
+            if number >= 1 and number <= len(question_item["option"]):
+                chosen = question_item["option"][number - 1]
                 if chosen.lower() == question_item["answer"].lower():
                     print("Correct!")
                     return
