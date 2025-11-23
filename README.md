@@ -57,7 +57,7 @@ Simple Installation Guide (Windows PC)
 3. Select Python Interpreter
  - Ctrl + Shift + P → Python: Select Interpreter → choose Python 3.13
 4. Run the Program
- - Open practice.py → click Run ▶
+ - Open PracticeQuestionGenerator.py → click Run ▶
  - Or run in the terminal:
      - PracticeQuestionGenerator.py
 
