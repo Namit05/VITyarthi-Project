@@ -21,14 +21,14 @@ Features
 Technologies Used
 --------
 Python 3.13.0
-1.Built-in Modules
+1. Built-in Modules
  - random — used to randomly select questions
 2. Custom User-Made Modules (Subject Question Files)
  - EnglishQuestions.py
  - ChemistryQuestions.py
  - PhysicsQuestions.py
  - MathsQuestions.py (and TestMathsModule.py for testing)
-
+- These Custom modules help to reduce code length , edit easily to add more questions and make user experience better
 3)Development Tools
  - Git & GitHub for version control
  - Visual Studio Code for coding & debugging
