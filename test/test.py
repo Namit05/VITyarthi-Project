@@ -1,8 +1,10 @@
 #Test Case for maths pyq
 
+#Only for maths
 import random
 import TestMathsModule
 
+#Main menu automatically gives u mcq options and answer for the test case!
 def main():
     random.seed(0)
     q= TestMathsModule.maths_mcq[0]
