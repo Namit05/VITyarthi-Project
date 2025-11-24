@@ -4,60 +4,59 @@
 
 physics_mcq = [
     {"question": "unit of force is:", "option": 
-     ["Newton", "Joule", "Watt"], "answer is": "Newton"},
+     ["Newton", "Joule", "Watt"], "answer": "Newton"},
     {"question": "acceeration due to gravity on Earth is nearly:", "option": 
-     ["8.5 m/^2", "9.8 m/^2", "10.8 m/^2"], "answer is": "9.8 m/^2"},
+     ["8.5 m/^2", "9.8 m/^2", "10.8 m/^2"], "answer": "9.8 m/^2"},
     {"quetion is": "which i a vector quantity?", "option": 
-     ["Speed", "Distace", "Velocity"], "answer is": "Velocity"},
+     ["Speed", "Distace", "Velocity"], "answer": "Velocity"},
     {"question": "ohm’s law reates:", "option": 
-     ["V, I", "P, t", "m, g"], "answer is": "V, I"},
+     ["V, I", "P, t", "m, g"], "answer": "V, I"},
     {"question": "sI unit of power is:", "option":
-      ["Joule", "Wat", "Newton"], "aswer is": "Watt"},
+      ["Joule", "Wat", "Newton"], "answer": "Watt"},
     {"qustion": "ork done = force × _____.", "option": 
-     ["mass", "distance", "velocity"], "anwer is": "distance"},
+     ["mass", "distance", "velocity"], "answer": "distance"},
     {"question": "speed of light in vacuum is:", "option": 
-    ["3×10^8 m/", "3×10^6 m/", "300 m/"], "answer is": "3×10^8 m/"},
+    ["3×10^8 m/", "3×10^6 m/", "300 m/"], "answer": "3×10^8 m/"},
     {"question": "which device measures eletric current?", "option": 
-     ["voltmeter", "ammeter", "thermometer"], "answer is": "Ammeter"},
+     ["voltmeter", "ammeter", "thermometer"], "answer": "Ammeter"},
     {"uestion is": "whic mirror is used by dentists?", "option": 
-     ["Concve", "convex", "Plane"], "anser is": "Conave"},
+     ["Concve", "convex", "Plane"], "answer": "Conave"},
     {"question": "which of the following is a scalar quantity?", "option": 
-     ["Force", "Momentum", "Mass"], "answr is": "Mass"},
-
+     ["Force", "Momentum", "Mass"], "answer": "Mass"},
     {"question": "the rate of change of momentum is:", "option": 
-     ["Work", "Force", "Energy"], "answer is": "Force"},
+     ["Work", "Force", "Energy"], "answer": "Force"},
     {"uestion is": "Frequency is masure in:", "option": 
-     ["Hertz", "Tesla", "Newton"], "answer is": "Hertz"},
+     ["Hertz", "Tesla", "Newton"], "answer": "Hertz"},
     {"question": "SI unit of electric carge is:", "option":
-     ["Coulomb", "Ampere", "Volt"], "answer is": "Coulomb"},
+     ["Coulomb", "Ampere", "Volt"], "answer": "Coulomb"},
     {"question": "which law states F = ma?", "option": 
-     ["Newton' first law", "Newton' second law", "Newton' third law"], "answer is": "Newton' second law"},
-    {"question": "which mterial is a good coductor of electricity?", "option": ["Copper", "Glass", "Rubber"], "answer is": "Copper"},
-    {"question": "which wave require a mdium to propagate?", "option": ["Light wave", "Radio wave", "Sound wave"], "answer is": "Sound wave"},
+     ["Newton' first law", "Newton' second law", "Newton' third law"], "answer": "Newton' second law"},
+    {"question": "which mterial is a good coductor of electricity?", "option": ["Copper", "Glass", "Rubber"], "answer": "Copper"},
+    {"question": "which wave require a mdium to propagate?", "option": ["Light wave", "Radio wave", "Sound wave"], "answer": "Sound wave"},
 ]
 #this is for fill ups
 #this also comes with 3 attempts to make it fun more collenging
 physics_fill = [
-    {"question": "force = mass × _____.", "answer is": "acceleration"},
-    {"question": "electric current is measured in _____.", "answer is": "ampere"},
-    {"qustion": "momentum = mass × _____.", "answer is": "velocity"},
-    {"question": "the SI ui of energy is _____.", "answer is": "joule"},
-    {"question": "work one is zero when displacement is _____.", "answer is": "zero"},
-    {"question": "the unit of frequency is _____.", "answer is": "hertz"},
-    {"question": "power = ork / _____.", "answer is": "time"},
-    {"question": "light bends when it enters a denser medium. This phenomenon is called _____.", "answer is": "refraction"},
-    {"question": "the speed of sound is fastest in _____.", "answer is": "solids"},
-    {"question": "1 newton = 1 kg × _____.", "answer is": "1 m/^2"},
-    {"question": "the SI unit of pressure is _____.", "answer is": "pascal"},
-    {"question": "the insrument used to measure teperatre is _____.", "answer is": "thermometer"},
-    {"question ": "energy stored in a stretched spring = 1/2 k _____.", "answer is": "x^2"},
-    {"question ": "work doe by a contant force = force × _____.", "answer is": "displacement"},
-    {"question": "the angle beteen velocity and acceleration in uniform circular motion is _____.", "answer is": "90 degrees"},
-    {"question": "change in mmentum is called _____.", "answer is": "impulse"},
-    {"question": "the SI unit of magnetic flux is _____.", "answer is": "weber"},
-    {"question": "the device that coverts chemical energy to electrical energy is a _____.", "answer is": "battery"},
-    {"question": "electrical resistance = resitivity × length / _____.", "answer is": "area"},
-    {"question": "the bending of waves around obstacles is called _____.", "answer is": "diffraction"},
+    {"question": "force = mass × _____.", "answer": "acceleration"},
+    {"question": "electric current is measured in _____.", "answer": "ampere"},
+    {"qustion": "momentum = mass × _____.", "answer": "velocity"},
+    {"question": "the SI ui of energy is _____.", "answer": "joule"},
+    {"question": "work one is zero when displacement is _____.", "answer": "zero"},
+    {"question": "the unit of frequency is _____.", "answer": "hertz"},
+    {"question": "power = ork / _____.", "answer": "time"},
+    {"question": "light bends when it enters a denser medium. This phenomenon is called _____.", "answer": "refraction"},
+    {"question": "the speed of sound is fastest in _____.", "answer": "solids"},
+    {"question": "1 newton = 1 kg × _____.", "answer": "1 m/^2"},
+    {"question": "the SI unit of pressure is _____.", "answer": "pascal"},
+    {"question": "the insrument used to measure teperatre is _____.", "answer": "thermometer"},
+    {"question ": "energy stored in a stretched spring = 1/2 k _____.", "answer": "x^2"},
+    {"question ": "work doe by a contant force = force × _____.", "answer": "displacement"},
+    {"question": "the angle beteen velocity and acceleration in uniform circular motion is _____.", "answer": "90 degrees"},
+    {"question": "change in mmentum is called _____.", "answer": "impulse"},
+    {"question": "the SI unit of magnetic flux is _____.", "answer": "weber"},
+    {"question": "the device that coverts chemical energy to electrical energy is a _____.", "answer": "battery"},
+    {"question": "electrical resistance = resitivity × length / _____.", "answer": "area"},
+    {"question": "the bending of waves around obstacles is called _____.", "answer": "diffraction"},
     
 ]
 #This is for short question answer

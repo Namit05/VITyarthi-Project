@@ -4,65 +4,65 @@
 
 chemistry_mcq = [
     {"question": "which element has atomic number 8", "option": 
-     ["nitrogen", "oxygen", "fluorine"], "here is the answer": "Oxygen"},
+     ["nitrogen", "oxygen", "fluorine"], "answer": "Oxygen"},
     {"uestion is": "which of the following is an alkaline earth metal?", "option":
-      ["sodium", "magnesium", "chlorine"], "here is the answer": "Magnesium"},
+      ["sodium", "magnesium", "chlorine"], "answer": "Magnesium"},
     {"quetion is": "what is the formula of calcium crbonate?", "option": 
-     ["caCO3", "caCl2", "caSO4"], "here is the answer": "CaCO3"},
+     ["caCO3", "caCl2", "caSO4"], "answer": "CaCO3"},
     {"question": "which gafds is liberated when dilute HCl reacts with zinc?", "option": 
-     ["hydrogen", "oxygen", "chorine"], "here is the answer": "Hydrogen"},
+     ["hydrogen", "oxygen", "chorine"], "answer": "Hydrogen"},
     {"question": "which is a strong acid?", "Opions are": 
-     ["HCl", "CH3COOH", "H2O"], "here is the answer": "HCl"},
+     ["HCl", "CH3COOH", "H2O"], "answer": "HCl"},
     {"question": "which type of bond is present in N2 molecule?", "option": 
-     ["Single covalent", "Doule oalent", "riple covalent"], "here is the answer": "Triple covalent"},
+     ["Single covalent", "Doule oalent", "riple covalent"], "answer": "Triple covalent"},
     {"question": "ph of a neutral olution at 25°C is:", "option": 
      ["7", "0", "14"], "here is the aswer": "7"},
     {"question": "which of hese s a reducing sugar?", "option": 
-     ["Glucose", "Sucrose", "Cellulose"], "here is the answer": "Glucose"},
+     ["Glucose", "Sucrose", "Cellulose"], "answer": "Glucose"},
     {"question": "In which orbital does the first electron of hydrogen go?", "option": 
      ["1s", "2s", "2p"], "here i the answer": "1s"},
     {"question": "which method separates two miscible liqids with different boiling points?", "option": 
-     ["distillation", "filtration", "decantation"], "here is the answer":"Distillation"},
+     ["distillation", "filtration", "decantation"], "answer":"Distillation"},
     {"question": "which is an addition polymer?", "option": 
-     ["Polyethylene", "Nylon", "Teflon"], "here is the answer":"Polyethylene"},
+     ["Polyethylene", "Nylon", "Teflon"], "answer":"Polyethylene"},
     {"question": "Test for unsaturation uses:", "option": 
-     ["Bromine water", "Tollens reagent", "Fehling solution"], "here is the answer":"Bromine water"},
+     ["Bromine water", "Tollens reagent", "Fehling solution"], "answer":"Bromine water"},
     {"Queston": "Most electronegative element?", "option": 
-     ["Fluorine", "Oxygen", "Chlorine"], "here is the answer": "Flurine"},
+     ["Fluorine", "Oxygen", "Chlorine"], "answer": "Flurine"},
     {"question": "Product of neutralizing HCl with NaO:","option": 
-     ["NaCl and H₂O", "H₂", "NaOH"], "here is the answer":"NaCl and H₂O"},
+     ["NaCl and H₂O", "H₂", "NaOH"], "answer":"NaCl and H₂O"},
     {"question": "Metal extracted from aluminium oxide?","option": 
-     ["Aluminium", "Copper" "Iron"], "here is the answer":"Aluminium"},
+     ["Aluminium", "Copper" "Iron"], "answer":"Aluminium"},
     {"question": "But-1-ene and but-2-ene show:", "option": 
-     ["Position isomerism", "Cain isomerism", "Fuctional"],"here is the answer":"Position isomerism"},
+     ["Position isomerism", "Cain isomerism", "Fuctional"],"answer":"Position isomerism"},
     {"question": "which is tertiary alcohol?", "option": 
-     ["tert-Butyl alcoho", "Ethanol", "Propanol"],"here is the answer":"tert-Butyl alcohol"},
+     ["tert-Butyl alcoho", "Ethanol", "Propanol"],"answer":"tert-Butyl alcohol"},
     {"question": "which oxid is acidic?", "option": [
-        "CO₂", "CaO", "Na₂O"], "here is the answer":"CO₂"},
+        "CO₂", "CaO", "Na₂O"], "answer":"CO₂"},
     {"question": "Common name for NaHCO₃?", "option":
-      ["Baking soda", "Washin soda", "Bleahing powder"],"here is the answer":"Baking soda"},
+      ["Baking soda", "Washin soda", "Bleahing powder"],"answer":"Baking soda"},
 
 ]
 #this is for fill ups
 #this also comes with 3 attempts to make it fun more collenging
 chemistry_fill = [
-    {"question": "the chemical formula of common salt is _____.","here is the answer":"NaCl"},
-    {"question": "the atomic number of carbon is _____.","here is the answer": "6"},
-    {"question": "avogadro's number is _____.", "here is the answer": "6.022e23"},
-    {"question": "the ph of neutral water is _____.", "here is the answer": "7"},
+    {"question": "the chemical formula of common salt is _____.","answer":"NaCl"},
+    {"question": "the atomic number of carbon is _____.","answer": "6"},
+    {"question": "avogadro's number is _____.", "answer": "6.022e23"},
+    {"question": "the ph of neutral water is _____.", "answer": "7"},
     {"question": "elecolysis of molten NaCl produces sodium and _____.", "hre is the answer": "chlorine"},
-    {"question": "the oxidation state o sulfur in H2SO4 is _____.", "here is the answer": "+6"},
-    {"question": "functional group -OH is called _____.", "here is the answer": "hydroxyl"},
-    {"question": "complete combstion of methane forms CO2 and _____.", "here is the answer": "H2O"},
-    {"question": "cvalent bod forms by _____ of electrons.", "here is the answer": "sharing"},
-    {"question": "sI unit of amount of substance is _____.", "here is the answer": "mol"},
-    {"question": "solid → Gas pocess is called _____.", "here is the answer": "sublimation"},
+    {"question": "the oxidation state o sulfur in H2SO4 is _____.", "answer": "+6"},
+    {"question": "functional group -OH is called _____.", "answer": "hydroxyl"},
+    {"question": "complete combstion of methane forms CO2 and _____.", "answer": "H2O"},
+    {"question": "cvalent bod forms by _____ of electrons.", "answer": "sharing"},
+    {"question": "sI unit of amount of substance is _____.", "answer": "mol"},
+    {"question": "solid → Gas pocess is called _____.", "answer": "sublimation"},
     {"question": "formula of ethene is _____.", "hre is the answer": "C2H4"},
-    {"question": "first ionisation enegygenerally _____ across a period.", "here is the answer": "increases"},
-    {"question": "equal volumes of gasescontain equal molecules: _____ law.", "here is the answer": "Avogadro's"},
-    {"question": "a substance inreasing reaction rate is called _____.", "here is the answer": "catalyst"},
-    {"question": "common name of CaCO3 is _____.", "here is the answer": "limestone"},
-    {"question": "molecular formula of glucose is _____.", "here is the answer": "C6H12O6"},
+    {"question": "first ionisation enegygenerally _____ across a period.", "answer": "increases"},
+    {"question": "equal volumes of gasescontain equal molecules: _____ law.", "answer": "Avogadro's"},
+    {"question": "a substance inreasing reaction rate is called _____.", "answer": "catalyst"},
+    {"question": "common name of CaCO3 is _____.", "answer": "limestone"},
+    {"question": "molecular formula of glucose is _____.", "answer": "C6H12O6"},
 
 ]
 #Tjis is for short question answer
