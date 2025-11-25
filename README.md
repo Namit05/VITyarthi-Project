@@ -14,22 +14,22 @@ Features
    - Short answer
    - Long answer
 3. Four custom user-made modules for questions
-4. Beginner-friendly CLI interface
+4. CLI interface is beginner friendly
 5. Good to look at as it does not use many external liberaries keeping the code clean
 6. Includes a simple automated test script
 
 Technologies Used
 --------
 Python 3.13.0
-1. Built-in Modules
+1. Built-in Modules used
  - random — used to randomly select questions
-2. Custom User-Made Modules (Subject Question Files) - These Custom modules help to reduce code length , edit easily to add more questions and make user experience better :
+2. Custom User-Made Modules used (Subject Question Files) - These Custom modules help to reduce code length , edit easily to add more questions and make user experience better :
  - EnglishQuestions.py
  - ChemistryQuestions.py
  - PhysicsQuestions.py
  - MathsQuestions.py (and TestMathsModule.py for testing)
 
-3)Development Tools
+3)Development Tools used
  - Git & GitHub for version control
  - Visual Studio Code for coding & debugging
 
