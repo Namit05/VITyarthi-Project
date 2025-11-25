@@ -5,9 +5,9 @@
 physics_mcq = [
     {"question": "unit of force is:", "option": 
      ["Newton", "Joule", "Watt"], "answer": "Newton"},
-    {"question": "acceeration due to gravity on Earth is nearly:", "option": 
+    {"question": "acceleration due to gravity on Earth is nearly:", "option": 
      ["8.5 m/^2", "9.8 m/^2", "10.8 m/^2"], "answer": "9.8 m/^2"},
-    {"quetion is": "which i a vector quantity?", "option": 
+    {"quetion is": "which is a vector quantity?", "option": 
      ["Speed", "Distace", "Velocity"], "answer": "Velocity"},
     {"question": "ohm’s law reates:", "option": 
      ["V, I", "P, t", "m, g"], "answer": "V, I"},
@@ -28,7 +28,7 @@ physics_mcq = [
     {"uestion is": "Frequency is masure in:", "option": 
      ["Hertz", "Tesla", "Newton"], "answer": "Hertz"},
     {"question": "SI unit of electric carge is:", "option":
-     ["Coulomb", "Ampere", "Volt"], "answer": "Coulomb"},
+     ["Coulomb","Ampere","Volt"], "answer": "Coulomb"},
     {"question": "which law states F = ma?", "option": 
      ["Newton' first law", "Newton' second law", "Newton' third law"], "answer": "Newton' second law"},
     {"question": "which mterial is a good coductor of electricity?", "option": ["Copper", "Glass", "Rubber"], "answer": "Copper"},
