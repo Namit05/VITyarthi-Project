@@ -9,7 +9,7 @@ english_mcq = [
      ["she don't like it.", "she doesn't like it.", "she not like it."], "answer": "she doesn't like it."},
     {"question":"pick the right preposition: I arrived _____ noon.", "option": 
      ["in", "at", "on"],"answer": "at"},
-    {"question": "choose correct article: I saw _____ eagle.", "option": 
+    {"question": "choose the correct article: I saw _____ eagle.", "option": 
      ["a", "an", "the"], "answer": "an"},
     {"question": "which is plural?", "option": 
      ["child", "children", "childs"], "answer": "children"},
