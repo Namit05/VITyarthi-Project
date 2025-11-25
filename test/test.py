@@ -1,14 +1,14 @@
 #Test Case for maths pyq
 
-#Only for maths just as a test case
+#Only for maths just as a test case!
 import random
 import TestMathsModule
 
-#Main menu automatically gives u mcq options and answer for the test case!
+#Main menu automatically gives u mcq options and answer for the test case!!
 def main():
     random.seed(0)
     q=TestMathsModule.maths_mcq[0]
-#will print all 3 menus without input from user and also give correct answer!
+#will print all 3 menus without input from user and also give correct answer!!
     print("Q:",q["question"])
     print("Options:",q["options"])
     answer_text=q["answer"]
