@@ -34,13 +34,13 @@ chemistry_mcq = [
     {"question": "Metal extracted from aluminium oxide?","option": 
      ["Aluminium", "Copper" "Iron"], "answer":"Aluminium"},
     {"question": "But-1-ene and but-2-ene show:", "option": 
-     ["Position isomerism", "Cain isomerism", "Fuctional"],"answer":"Position isomerism"},
+     ["Position isomerism", "Chain isomerism", "Fuctional"],"answer":"Position isomerism"},
     {"question": "which is tertiary alcohol?", "option": 
-     ["tert-Butyl alcoho", "Ethanol", "Propanol"],"answer":"tert-Butyl alcohol"},
+     ["tert-Butyl alcohlo", "Ethanol", "Propanol"],"answer":"tert-Butyl alcohol"},
     {"question": "which oxid is acidic?", "option": [
         "CO₂", "CaO", "Na₂O"], "answer":"CO₂"},
     {"question": "Common name for NaHCO₃?", "option":
-      ["Baking soda", "Washin soda", "Bleahing powder"],"answer":"Baking soda"},
+      ["Baking soda", "Washing soda", "Bleaching powder"],"answer":"Baking soda"},
 
 ]
 #this is for fill ups
@@ -54,7 +54,7 @@ chemistry_fill = [
     {"question": "the oxidation state o sulfur in H2SO4 is _____.", "answer": "+6"},
     {"question": "functional group -OH is called _____.", "answer": "hydroxyl"},
     {"question": "complete combstion of methane forms CO2 and _____.", "answer": "H2O"},
-    {"question": "cvalent bod forms by _____ of electrons.", "answer": "sharing"},
+    {"question": "covalent bod forms by _____ of electrons.", "answer": "sharing"},
     {"question": "sI unit of amount of substance is _____.", "answer": "mol"},
     {"question": "solid → Gas pocess is called _____.", "answer": "sublimation"},
     {"question": "formula of ethene is _____.", "hre is the answer": "C2H4"},
@@ -94,7 +94,7 @@ chemistry_short = [
 #take ur time to do this !
 chemistry_long = [
     {"question": "explain the Aufbau rinciple and its application in writing electronic configurations."},
-    {"question": "describe rends in atomic size and ionisation energy acoss the periodic table."},
+    {"question": "describe trends in atomic size and ionisation energy acoss the periodic table."},
     {"question": "explain preparation, properties and uses of chlorine gas."},
     {"question": "describe ionic and covalent chracer of bonds with examples."},
     {"question": "explain elctrophilic addition in alkenes with mechanisms."},
