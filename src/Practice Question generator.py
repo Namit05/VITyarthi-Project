@@ -160,7 +160,7 @@ def ask_fill(question_item):
 def ask_short(question_item):
     print("Q:", question_item["question"])
 
-#Function for long questions !
+#Function for long questions !!
 
 def ask_long(question_item):
     print("Q:", question_item["question"])
