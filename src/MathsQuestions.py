@@ -5,25 +5,25 @@
 maths_mcq = [
     {"question": "derivtve of x^2 is:", "options": 
      ["x","2x","x^2"], "answer": "2x"},
-    {"question": "integral of 1/x dx is:", "options": 
+    {"question": "integral of 1/x dx is:", "option": 
      ["ln|x|+C","x+C","1/x+C"], "answer": "ln|x + C"},
     {"question": "value of in(90) is:", "option": 
      ["0","1" "-1"], "answer": "1"},
     {"question": "slope ofline y =3x+5 is:", "option": 
      ["3","5", "1/3"], "answer":"3"},
-    {"question": "if a=2, b=3, value of a^3+b^3 is:", "options": 
+    {"question": "if a=2, b=3, value of a^3+b^3 is:", "option": 
      ["27","35","8"], "answer": "35"},
-    {"question": "LCM of 6 and 8 is:", "options": 
+    {"question": "LCM of 6 and 8 is:", "option": 
      ["24", "12", "48"], "answer":"24"},
     {"question": "if tanθ=1, θ = ?", "option": [
         "30", "45", "60"], "answer":"45"},
-    {"question": " what is2×2^3?", "options": 
+    {"question": " what is2×2^3?", "option": 
      ["16","12", "8"], "answer":"16"},
     {"question": "deteriant of matrix [[a,0],[0,a]] is:", "option": 
      ["0","a","a^2"], "answer":"a^2"},
     {"question": "value of log10(1000) is:", "option": 
      ["2","3","4"], "answer": "3"},
-    {"question": "limit of (sinx)/x as x→0 is:", "here ae the options": 
+    {"question": "limit of (sinx)/x as x→0 is:", "option": 
      ["0","1","infinity"], "answer": "1"},
     {"question": "area of circlewith radius r is:", "option": 
      ["2πr","πr^2","π/2"], "answer": "πr^2"},
